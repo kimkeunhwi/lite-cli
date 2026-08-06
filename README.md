@@ -1,0 +1,2 @@
+# lite-cli
+cli project
